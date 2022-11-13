@@ -1,0 +1,9 @@
+asgiref==3.5.2
+django-ckeditor==6.5.1
+django-js-asset==2.0.0
+django-widget-tweaks==1.4.12
+Pillow==9.2.0
+sqlparse==0.4.2
+tzdata==2022.2
+django-decouple
+psycopg2-binary
